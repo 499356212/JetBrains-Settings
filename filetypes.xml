@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="git" type="PLAIN_TEXT" />
+      <mapping ext="text" type="PLAIN_TEXT" />
+      <removed_mapping pattern="LeaseExpiresTask.java" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="yml" approved="true" type="SnakeYAML" />
+    </extensionMap>
+  </component>
+</application>
