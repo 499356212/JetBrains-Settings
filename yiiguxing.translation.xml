@@ -1,0 +1,17 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="A hash table supporting full concurrency of retrievals and * high expected concurrency for updates. This class obeys the * same functional specification as {@link java.util.Hashtable}, and * includes versions of methods corresponding to each method of * {@code Hashtable}. However, even though all operations are * thread-safe, retrieval operations do &lt;em&gt;not&lt;/em&gt; entail locking, * and there is &lt;em&gt;not&lt;/em&gt; any support for locking the entire table * in a way that prevents all access. This class is fully * interoperable with {@code Hashtable} in programs that rely on its * thread safety but not on its synchronization details." />
+      <item value="specification" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="2" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
+  </component>
+</application>
